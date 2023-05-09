@@ -1,0 +1,10 @@
+Skopje 8
+Tetovo 9
+Bitola 10
+Prilep 11
+Kumanovo 13
+Ohrid 14
+Debar 15
+Strumica 16
+Teodor 610
+INKI 1027
